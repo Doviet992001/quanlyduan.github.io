@@ -1,0 +1,27 @@
+.title__admin {
+    text-align: center;
+    font-size: 4rem;
+}
+
+.admin__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    font-size: 1.6rem;
+}
+
+.admin__item {
+    margin-right: 20px;
+}
+
+.admin__item-link {
+    text-decoration: none;
+    color: black;
+}
+
+.wrapper {
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+}
